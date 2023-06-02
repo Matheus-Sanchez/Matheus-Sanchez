@@ -1,7 +1,7 @@
 # **Reach the Stars** 🚀 ✨💫🌠☄️🌑 
 
-#### Gaining 🤑 with: 
+### Gaining 🤑 with: 
 ## 🏦 **QA testing** 💻 and 📖 **Innovation Research** 🔬
-#### Feeding my 🧠 with:
+### Feeding my 🧠 with:
 ## 🐙 **GitHub Management** 🐈 and **AR Research**
 
