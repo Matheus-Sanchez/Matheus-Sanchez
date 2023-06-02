@@ -14,7 +14,7 @@
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=520" />
   </a>
   <a href="[Git](https://github.com/AndreCoutinhom)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br" />
