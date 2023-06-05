@@ -1,4 +1,4 @@
-# **Reach the Stars** 🚀 ✨💫🌠☄️🌑 
+# **Reach the Stars** 🚀✨💫🌠☄️🌑 
 📧 andre.coutinhom@gmail.com
 
 ### Gaining 🤑 with: 
