@@ -25,7 +25,9 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Nick-Wilde" height="258" width="258" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
   <img align="center" alt="Andre-Arduino" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Andre-Ps" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">  
+  <img align="center" alt="Andre-Ps" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
+  <img align="center" alt="Andre-Ps" height="80" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/512px-Microsoft_365_%282022%29.svg.png?20230429012417"> 
+
 </div>  
 
   ##
