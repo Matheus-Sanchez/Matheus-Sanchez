@@ -24,7 +24,7 @@
   
 <div style="display: inline_block"><br>
   <img align="right" alt="Nick-Wilde" height="258" width="258" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
-  <img align="center" alt="Andre-Office" height="70" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> 
+  <img align="center" alt="Andre-Office" height="80" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> 
   <img align="center" alt="Andre-Postman" height="80" width="75" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
   <img align="center" alt="Andre-Corel" height="80" width="90" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/coreldraw-icon.svg">
   <img align="center" alt="Andre-Ps" height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png"> 
