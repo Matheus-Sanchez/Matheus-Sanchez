@@ -37,10 +37,5 @@
   <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
 </div>
 
-</div>
- 
-  ![Snake animation](https://github.com/AndreCoutinhom/AndreCoutinhom/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
