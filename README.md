@@ -34,7 +34,7 @@
   ##
   
   <div> 
-  <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
+  <a href="https://pin.it/55pR1xx" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
 </div>
 
 
