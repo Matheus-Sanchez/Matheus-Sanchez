@@ -29,6 +29,7 @@
   <img align="center" alt="Andre-Corel" height="80" width="90" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/coreldraw-icon.svg">
   <img align="center" alt="Andre-Ps" height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png"> 
   <img align="center" alt="Andre-Arduino" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Andre-ChatGPT" height="80" width="80" src="https://cdn3.iconfinder.com/data/icons/artificial-intelligence-ai-glyph/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png">
 </div>  
 
   ##
