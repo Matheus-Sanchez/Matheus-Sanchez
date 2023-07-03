@@ -36,7 +36,9 @@
   
   <div> 
   <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/andré-coutinho-0a0539163" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
