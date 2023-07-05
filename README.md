@@ -8,7 +8,15 @@
 ### Feeding my 🧠 with:
 > **GitHub Management** 🐙🐈
 ###
-> **AR Research** 📱🥽 
+> **XR Research** 📱🥽
+###
+> **Video Game Concepts** 🎮👾 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sans" height="168" width="168" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10c1c6e1-f279-4e8f-8211-f9cf86a7307d/d9tnfw0-a8064ec6-c506-438c-b0de-b9c2cda9e818.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYzFjNmUxLWYyNzktNGU4Zi04MjExLWY5Y2Y4NmE3MzA3ZFwvZDl0bmZ3MC1hODA2NGVjNi1jNTA2LTQzOGMtYjBkZS1iOWMyY2RhOWU4MTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vtJVoV_2EXSCznfDJyKHOiWGlTfs7HPDGXxMbkcQuIY">
+</div>  
+
+
 
   ##
 
