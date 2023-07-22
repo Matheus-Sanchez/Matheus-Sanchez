@@ -2,7 +2,9 @@
 📧 andre.coutinhom@gmail.com
 
 ### Gaining 🤑 with: 
-> **QA testing** 💻🏦
+> **Graphene Research** ⚛️🔬
+###
+> **Artificial Systems and Social Robotics** 🦾🤖
 ###
 > **Innovation Research** 📖🔬
 ### Feeding my 🧠 with:
