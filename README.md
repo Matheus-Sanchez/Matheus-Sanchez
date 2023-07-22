@@ -28,7 +28,7 @@
   <img align="right" alt="Nick-Wilde" height="258" width="258" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
   <img align="center" alt="Andre-Office" height="80" width="90" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
   <img align="center" alt="Andre-Postman" height="80" width="75" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
-  <img align="center" alt="Andre-Corel" height="110" width="110" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/52/4d/5d524d3a-94f9-b78f-8f47-f975f28fcf4c/CorelDraw.png/1200x630bb.png">
+  <img align="center" alt="Andre-Corel" height="103" width="103" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/52/4d/5d524d3a-94f9-b78f-8f47-f975f28fcf4c/CorelDraw.png/1200x630bb.png">
   <img align="center" alt="Andre-Ps" height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png"> 
   <img align="center" alt="Andre-Arduino" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Andre-ChatGPT" height="80" width="80" src="https://cdn3.iconfinder.com/data/icons/artificial-intelligence-ai-glyph/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png">
