@@ -1,6 +1,5 @@
-<h1 align="center">
-🚀✨💫 **Reach the Stars** 🌠☄️🌑
-</h1>
+**Reach the Stars** 🚀✨💫🌠☄️🌑
+  
 📧 andre.coutinhom@gmail.com
 
 ### Gaining 🤑 with: 
