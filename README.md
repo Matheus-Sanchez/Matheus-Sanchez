@@ -33,7 +33,6 @@
 <img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
 
 
-
 </div>  
 
   ##
