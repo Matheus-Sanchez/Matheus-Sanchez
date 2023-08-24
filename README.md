@@ -7,7 +7,6 @@
 ###
 > **Graphene Properties** 🧲🔍
 ###
-> **Video Game Concepts** 🎮👾 
 
   ##
 
