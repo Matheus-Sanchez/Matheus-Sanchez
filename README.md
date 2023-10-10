@@ -18,24 +18,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
   </a>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="right" alt="Nick-Wilde" height="308" width="308" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
 
-<img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
-<img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
-<img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png">
-<img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png">
-<img align="center" alt="Andre-Github" height="53" width="53" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">  
-<img align="center" alt="Andre-ChatGPT" height="53" width="53" src="https://cdn3.iconfinder.com/data/icons/artificial-intelligence-ai-glyph/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png">
-<img align="center" alt="Andre-Ps" height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"> 
-<img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
-
-</div>  
-
-##
-
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
 
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
@@ -48,6 +32,22 @@
 <img align="center" alt="Andre-Communication" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/relacionamento-interpessoal.svg">
 <img align="center" alt="Andre-Alexa" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/iot-amazon-alexa.svg">
 <img align="center" alt="Andre-UXR" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-research-conversao.svg">
+
+</div>  
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Nick-Wilde" height="308" width="308" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+
+<img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
+<img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
+<img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png">
+<img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png">
+<img align="center" alt="Andre-Github" height="53" width="53" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">  
+<img align="center" alt="Andre-ChatGPT" height="53" width="53" src="https://cdn3.iconfinder.com/data/icons/artificial-intelligence-ai-glyph/64/openai-gym-Toolkit-algorithm-Reinforcement-Learning_-512.png">
+<img align="center" alt="Andre-Ps" height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"> 
+<img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
 
 </div>  
 
