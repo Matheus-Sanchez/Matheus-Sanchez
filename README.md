@@ -33,6 +33,8 @@
 
 </div>  
 
+##
+
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
@@ -46,15 +48,6 @@
 <img align="center" alt="Andre-Communication" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/relacionamento-interpessoal.svg">
 <img align="center" alt="Andre-Alexa" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/iot-amazon-alexa.svg">
 <img align="center" alt="Andre-UXR" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-research-conversao.svg">
-
-
-
-
-
-
-
-
-
 
 </div>  
 
