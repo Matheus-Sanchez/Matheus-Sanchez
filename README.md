@@ -3,7 +3,7 @@
 📧 andre.coutinhom@gmail.com
 
 ### Feeding my 🧠 with:
-> **AI Systems** 🤖🔌
+> **Artificial Cognitive Systems** 🤖🔌
 ###
 > **Graphene Properties** 🧲🔍
 ###
