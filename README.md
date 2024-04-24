@@ -24,15 +24,10 @@
 
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
-<img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
 <img align="center" alt="Andre-Python" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/python-entendendo-orientacao-objetos.svg">
-<img align="center" alt="Andre-PowerPoint" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/comunicacao-corporativa-powerpoint.svg">
 <img align="center" alt="Andre-C++" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/c-plus-plus-orientacao-objetos-heranca.svg">
-<img align="center" alt="Andre-Video" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/producao-audiovisual.svg">
-<img align="center" alt="Andre-Character" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/design-personagem-concept-animais-criaturas.svg">
-<img align="center" alt="Andre-Communication" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/relacionamento-interpessoal.svg">
-<img align="center" alt="Andre-Alexa" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/iot-amazon-alexa.svg">
-<img align="center" alt="Andre-UXR" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-research-conversao.svg">
+
+
 
 </div>  
 
